@@ -3,6 +3,7 @@
 ![ Mtal used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtaleta)
 ![ Mtal leetcode](https://stats.justsong.cn/api/leetcode/?username=ex051240)
 
+![ Mtal streak](https://streak-stats.demolab.com/?user=mtaleta&locale=zh_Hant)
 
 
 <!--
