@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![ Mtal used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtaleta)
-https://stats.justsong.cn/api/leetcode/?username=ex051240
+![ Mtal leetcode](https://stats.justsong.cn/api/leetcode/?username=ex051240)
 
 
 
