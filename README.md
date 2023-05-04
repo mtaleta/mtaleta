@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Mtal Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtaleta)
+![Mtal used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtaleta)
 
 
 
