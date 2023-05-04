@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Mtal Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtaleta GitHub ID&layout=compact&hide_border=true&langs_count=10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 
 
